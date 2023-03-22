@@ -7,22 +7,22 @@ Taxen MultiTool is a multi-threaded Discord Self Bot and it is used for many fea
 
 
 # Features
-<li> Webhook Spammer <li>
-<li> Webhook Deleter <li>
-<li> Webhook Checker <li>
-<li> Proxy Scraper <li>
-<li> Python Obfusucator <li>
-<li> Nitro Generator And Checker <li>
-<li> Roblox Cookie Checker <li>
-<li> Token Info <li>
-<li> Token MassDM <li>
-<li> Pin Cracker <li>
-<li> Cookie Logger Builder <li>
-<li> Token Logger Builder <li>
-<li> Token Finder <li>
-<li> Half Token Finder <li>
-<li> Email Spammer <li>
-<li> Token Generator <li>
+<li> Webhook Spammer
+<li> Webhook Deleter
+<li> Webhook Checker
+<li> Proxy Scraper
+<li> Python Obfusucator
+<li> Nitro Generator And Checker
+<li> Roblox Cookie Checker
+<li> Token Info
+<li> Token MassDM
+<li> Pin Cracker
+<li> Cookie Logger Builder
+<li> Token Logger Builder
+<li> Token Finder
+<li> Half Token Finder
+<li> Email Spammer
+<li> Token Generator
 
 
 
